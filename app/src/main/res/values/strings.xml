@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrinksAndroidApplication</string>
+    <string name="header_find_drink">Find Drink</string>
+    <string name="lorem_ipsum_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="drink_name">Drink name</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="drink_image">Image of the drink</string>
+    <string name="drink_icon">Drink icon</string>
+    <string name="save">Save</string>
+</resources>
